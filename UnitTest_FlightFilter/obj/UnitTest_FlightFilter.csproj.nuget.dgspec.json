@@ -1,0 +1,146 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Spark\\Desktop\\Gridnine.FlightCodingTest\\UnitTest_FlightFilter\\UnitTest_FlightFilter.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Spark\\Desktop\\Gridnine.FlightCodingTest\\Gridnine.FlightCodingTest\\Gridnine.FlightCodingTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Spark\\Desktop\\Gridnine.FlightCodingTest\\Gridnine.FlightCodingTest\\Gridnine.FlightCodingTest.csproj",
+        "projectName": "Gridnine.FlightCodingTest",
+        "projectPath": "C:\\Users\\Spark\\Desktop\\Gridnine.FlightCodingTest\\Gridnine.FlightCodingTest\\Gridnine.FlightCodingTest.csproj",
+        "packagesPath": "C:\\Users\\Spark\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Spark\\Desktop\\Gridnine.FlightCodingTest\\Gridnine.FlightCodingTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Spark\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/discord-net/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Spark\\Desktop\\Gridnine.FlightCodingTest\\UnitTest_FlightFilter\\UnitTest_FlightFilter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Spark\\Desktop\\Gridnine.FlightCodingTest\\UnitTest_FlightFilter\\UnitTest_FlightFilter.csproj",
+        "projectName": "UnitTest_FlightFilter",
+        "projectPath": "C:\\Users\\Spark\\Desktop\\Gridnine.FlightCodingTest\\UnitTest_FlightFilter\\UnitTest_FlightFilter.csproj",
+        "packagesPath": "C:\\Users\\Spark\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Spark\\Desktop\\Gridnine.FlightCodingTest\\UnitTest_FlightFilter\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Spark\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/discord-net/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Spark\\Desktop\\Gridnine.FlightCodingTest\\Gridnine.FlightCodingTest\\Gridnine.FlightCodingTest.csproj": {
+                "projectPath": "C:\\Users\\Spark\\Desktop\\Gridnine.FlightCodingTest\\Gridnine.FlightCodingTest\\Gridnine.FlightCodingTest.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.7.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

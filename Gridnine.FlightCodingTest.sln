@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gridnine.FlightCodingTest", "Gridnine.FlightCodingTest\Gridnine.FlightCodingTest.csproj", "{FD896F83-DBF1-464C-964C-8AEF98779FCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest_FlightFilter", "UnitTest_FlightFilter\UnitTest_FlightFilter.csproj", "{D43E8CF1-D3ED-40E3-85A4-ECEC1CAC80B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD896F83-DBF1-464C-964C-8AEF98779FCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD896F83-DBF1-464C-964C-8AEF98779FCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD896F83-DBF1-464C-964C-8AEF98779FCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD896F83-DBF1-464C-964C-8AEF98779FCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D43E8CF1-D3ED-40E3-85A4-ECEC1CAC80B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D43E8CF1-D3ED-40E3-85A4-ECEC1CAC80B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D43E8CF1-D3ED-40E3-85A4-ECEC1CAC80B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D43E8CF1-D3ED-40E3-85A4-ECEC1CAC80B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8D32596-236C-4491-86DE-8BCE7B55ED87}
+	EndGlobalSection
+EndGlobal
